@@ -11,6 +11,8 @@
 
 [![Linkedin: Seepja Payasi](https://img.shields.io/badge/-seepjapayasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seepja-payasi/)](https://www.linkedin.com/in/seepja-payasi/)
 
+[![GitHub seepja](https://img.shields.io/github/followers/seepja?label=follow&style=social)](https://github.com/seepja)
+
 <p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
 <!---
 seepja/seepja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
