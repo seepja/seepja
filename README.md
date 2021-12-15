@@ -15,7 +15,7 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seepja&layout=compact&theme=radical&count_private=true" />
 
-![](https://activity-graph.herokuapp.com/graph?username=seepja&theme=github)
+<!--- ![](https://activity-graph.herokuapp.com/graph?username=seepja&theme=github)--->
 
 ![Seepja's Github Stats](https://github-readme-stats.vercel.app/api?username=seepja&show_icons=true&theme=radical&hide=stars,issues)
 
