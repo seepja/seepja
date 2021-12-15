@@ -13,6 +13,13 @@
 
 [![GitHub seepja](https://img.shields.io/github/followers/seepja?label=follow&style=social)](https://github.com/seepja)
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seepja&layout=compact&theme=radical&count_private=true" />
+
+<h1 align = 'Center'>Watch a 🐍 eating my Contribution Graph</h1>
+<p align="center">
+  <img src="https://github.com/seepja/seepja/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
+
 <p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
 <!---
 seepja/seepja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
