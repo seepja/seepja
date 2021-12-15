@@ -15,7 +15,7 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seepja&layout=compact&theme=radical&count_private=true" />
 
-<p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
+Show some ❤️ by ⭐ Repositories you find Superior!
 <!---
 seepja/seepja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
