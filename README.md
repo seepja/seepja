@@ -17,7 +17,7 @@
 
 <!--- ![](https://activity-graph.herokuapp.com/graph?username=seepja&theme=github)--->
 
-![Seepja's Github Stats](https://github-readme-stats.vercel.app/api?username=seepja&show_icons=true&theme=radical&hide=stars,issues)
+<!--- ![Seepja's Github Stats](https://github-readme-stats.vercel.app/api?username=seepja&show_icons=true&theme=radical&hide=stars,issues)--->
 
 Show some ❤️ by ⭐ Repositories you find Superior!
 <!---
