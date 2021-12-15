@@ -5,7 +5,7 @@
 **About Me -**
 - 🔭 A Final Year Engineering Student.
 - 👀 Interested in learning and improving my coding skills.
-- 🌱 Currently learning Python3 and SQL.
+- 🌱 Currently coding in Python3 and learning SQL.
 
 🤝🏻 Reach me out!
 
