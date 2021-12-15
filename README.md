@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @seepja
+
+### Hi! I am Seepja. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+
+**About Me -**
+- 🔭 A Final Year Engineering Student.
 - 👀 I’m interested in learning and improving my coding skills
 - 🌱 I’m currently learning Python3 and SQL
 
