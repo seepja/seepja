@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seepja
 - 👀 I’m interested in learning and improving my coding skills
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning Python3 and SQL
 
 <!---
 seepja/seepja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
