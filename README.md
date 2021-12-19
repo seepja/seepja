@@ -13,7 +13,6 @@
 
 [![GitHub seepja](https://img.shields.io/github/followers/seepja?label=follow&style=social)](https://github.com/seepja)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=seepja&layout=compact&theme=radical&count_private=true" />
 
 <!--- ![](https://activity-graph.herokuapp.com/graph?username=seepja&theme=github)--->
 
